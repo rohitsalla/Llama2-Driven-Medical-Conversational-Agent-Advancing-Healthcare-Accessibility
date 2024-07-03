@@ -1,4 +1,4 @@
-# End-to-end-Medical-Chatbot-using-Llama2
+# Llama2-Driven-Medical-Conversational-Agent-Advancing-Healthcare-Accessibility
 
 # How to run?
 ### STEPS:
